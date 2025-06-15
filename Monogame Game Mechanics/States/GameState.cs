@@ -17,7 +17,7 @@ namespace Monogame_Game_Mechanics.States
 	public abstract class GameState
 	{
 		protected GameState( Microsoft.Xna.Framework.Content.ContentManager contentIn, ref GraphicsDeviceManager graphicsIn, 
-							 int stateWidthIn, int stateHeightIn )
+							 int stateHeightIn, int stateWidthIn )
 		{
 			Content = contentIn;
 			graphics = graphicsIn;
