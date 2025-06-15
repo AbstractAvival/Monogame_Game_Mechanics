@@ -13,7 +13,7 @@ using Monogame_Game_Mechanics.States;
 namespace Monogame_Game_Mechanics.Handlers
 {
 	public class StateHandler
-	{
+	{ 
 		public StateHandler()
 		{
 			localeManager = new LocaleManager();
