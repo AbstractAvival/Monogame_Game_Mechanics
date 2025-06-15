@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Monogame_Game_Mechanics.Handlers;
+using Monogame_Game_Mechanics.Locales;
 
 namespace Monogame_Game_Mechanics.States
 {
