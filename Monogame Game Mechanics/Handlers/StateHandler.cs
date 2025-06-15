@@ -51,7 +51,7 @@ namespace Monogame_Game_Mechanics.Handlers
 
 			//Place game state instancing here.
 			gameStates[ ( int )GameStates.MainMenuState ] = new BlankState( contentManager, ref graphics, defaultStateHeight, defaultStateWidth );
-			gameStates[ ( int )GameStates.PlayState ] = new BlankState( contentManager, ref graphics, defaultStateHeight, defaultStateWidth );
+			gameStates[ ( int )GameStates.PlayState ] = new PlayState( contentManager, ref graphics, defaultStateHeight, defaultStateWidth );
 
 			gameStates[ ( int )currentState ].Enter( this, resolutionHandler, localeManager );
 		}
