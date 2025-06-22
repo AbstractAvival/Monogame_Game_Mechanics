@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Monogame_Game_Mechanics.Components.GraphicComponents
+namespace Monogame_Game_Mechanics.ObjectComponents.GraphicComponents
 {
 	public class GraphicComponent
 	{

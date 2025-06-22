@@ -1,6 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using Monogame_Game_Mechanics.Components.GraphicComponents;
+using Monogame_Game_Mechanics.ObjectComponents.GraphicComponents;
 using Monogame_Game_Mechanics.General.Enums;
 
 namespace Monogame_Game_Mechanics.Objects
